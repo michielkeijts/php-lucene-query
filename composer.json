@@ -1,5 +1,5 @@
 {
-    "name" : "makinacorpus/php-lucene",
+    "name" : "michielkeijts/php-lucene",
     "type" : "library",
     "description" : "Minimalistic, feature-rich, PHP Lucene syntax query builder",
     "homepage" : "http://github.com/makinacorpus/php-lucene",
